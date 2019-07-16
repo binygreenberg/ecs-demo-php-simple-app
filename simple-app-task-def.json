@@ -6,7 +6,6 @@
             "host": {}
         }
     ],
-    "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "environment": [],
