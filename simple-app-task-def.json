@@ -1,5 +1,6 @@
 {
     "family": "console-sample-app",
+    "networkMode": "awsvpc",
     "volumes": [
         {
             "name": "my-vol",
@@ -10,7 +11,7 @@
         {
             "environment": [],
             "name": "simple-app",
-            "image": "amazon/amazon-ecs-sample",
+            "image": "<IMAGE>",
             "cpu": 10,
             "memory": 500,
             "portMappings": [
