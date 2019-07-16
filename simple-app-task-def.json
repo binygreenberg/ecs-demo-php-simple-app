@@ -11,7 +11,7 @@
         {
             "environment": [],
             "name": "simple-app",
-            "image": "<IMAGE>",
+            "image": "<IMAGE1_NAME>",
             "cpu": 10,
             "memory": 500,
             "portMappings": [
