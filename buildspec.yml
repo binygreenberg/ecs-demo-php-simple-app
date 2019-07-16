@@ -18,4 +18,5 @@ phases:
       - docker push "$IMAGE_URI"
       - printf '{"ImageURI":"%s"}' $IMAGE_URI > imageDetail.json
 artifacts:
-  files: imageDetail.json
+  files:
+      - imageDetail.json
