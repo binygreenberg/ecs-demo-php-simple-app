@@ -1,4 +1,6 @@
 {
+    "executionRoleArn": "arn:aws:iam::020559968011:role/aws-cicd-Service-179ZTG1XW7QCQ-TaskExecutionRole-16IQO505V2D02",
+    "taskRoleArn": "arn:aws:iam::020559968011:role/aws-cicd-Service-179ZTG1XW7QCQ-TaskExecutionRole-16IQO505V2D02",
     "family": "console-sample-app",
     "networkMode": "awsvpc",
     "volumes": [
