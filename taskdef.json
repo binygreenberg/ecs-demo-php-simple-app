@@ -13,7 +13,7 @@
         {
             "environment": [],
             "name": "simple-app",
-            "image": "020559968011.dkr.ecr.us-east-1.amazonaws.com/aws-c-repos-lb6izmvsg0fh:52b59910",
+            "image": "<IMAGE>",
             "cpu": 10,
             "memory": 500,
             "portMappings": [
