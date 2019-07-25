@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
-                <h2>Congratulations</h2>
+                <h2>Devops is awsome</h2>
                 <h2>This is a Good commit!!!!</h2>
                 <p>It's my app!!!!another change yippy!!! and another</p>
                 <h2>This is awsome!!!</h2>
